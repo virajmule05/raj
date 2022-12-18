@@ -10,6 +10,9 @@
 6)img[alt='Home']
 7)img[alt='Appliances']
 8)img[alt='Travel'
+9)img
+10)img
+11)img
 
 
 
