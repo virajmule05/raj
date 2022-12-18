@@ -10,4 +10,6 @@
 6)img[alt='Home']
 7)img[alt='Appliances']
 8)img[alt='Travel']
-9)img[alt='2-Wheelers']
+
+
+
