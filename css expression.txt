@@ -9,7 +9,7 @@
 5)img[alt='Electronics']
 6)img[alt='Home']
 7)img[alt='Appliances']
-8)img[alt='Travel']
+8)img[alt='Travel'
 
 
 
